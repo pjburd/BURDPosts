@@ -13,7 +13,8 @@ Clicking "Fetch..." link again will insert duplicate posts and images.
 
 Requirements
 ============
-PHP 5.4+ (For facebook sdk.
+PHP 5.4+ (For facebook sdk)
+Tested on Wordpress 4.4.2
 
 Installation
 ============
